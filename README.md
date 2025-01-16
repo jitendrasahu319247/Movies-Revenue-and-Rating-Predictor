@@ -1,4 +1,6 @@
-# Movies-Revenue-and-Rating-Predictor
-This project focuses on key aspects of data analytics, beginning with data cleaning, followed by Exploratory Data Analysis (EDA) using data visualization techniques to gain insights, and culminating in the development of a predictive model. The model forecasts the revenues and ratings of movies before their release based on these insights. The dataset consists of TMDb 5000 movie metadata, available here. Comprehensive analysis was conducted using Python libraries, targeting factors that influence movie revenue and ratings. Feature selection was enhanced through data cleaning and EDA, utilizing Seaborn and Matplotlib. The final prediction model was built using OLS, Ridge Regression, and XGBoost algorithms.
+# Movie-Revenue-and-Rating-Predictor
 
-Dataset consists of TMDb 5000 data. Dataset Link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+This project involves major verticals of data analytics, starting with data cleaning, then Exploratory Data Analysis using data visualization to get insights and finally using those insights to create a predictive model that will help in predicting the Revenues and Ratings of a movie.
+
+Dataset consists of TMDb 5000 data.
+Dataset Link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata 
